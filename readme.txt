@@ -1,4 +1,4 @@
-=== List Last Changes ===Contributors: rolandbaerTags: last changes, pagesRequires at least: 3.0.0Tested up to: 3.8.0License: GPLv2 or laterStable tag: 0.3.1
+=== List Last Changes ===Contributors: rolandbaerTags: last changes, pagesRequires at least: 3.0.0Tested up to: 3.9.0License: GPLv2 or laterStable tag: 0.3.1
 Shows a list of the last changes in the widget area.
 == Description ==Shows a list of the last changes in the widget area.
 Additional features include: * Select the number of entries in the list
