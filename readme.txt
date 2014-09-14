@@ -1,8 +1,8 @@
-=== List Last Changes ===Contributors: rolandbaerTags: last changes, pagesRequires at least: 3.0.0Tested up to: 3.9.0License: GPLv2 or laterStable tag: 0.3.1
+=== List Last Changes ===Contributors: rolandbaerTags: last changes, pagesRequires at least: 3.0.0Tested up to: 4.0.0License: GPLv2 or laterStable tag: 0.3.2
 Shows a list of the last changes in the widget area.
 == Description ==Shows a list of the last changes in the widget area.
 Additional features include: * Select the number of entries in the list
-== Changelog === 0.3.1 =* Changed Plugin Link directly to official Web Page
+== Changelog === 0.3.2 =* Tested with Wordpress 4.0= 0.3.1 =* Changed Plugin Link directly to official Web Page
 = 0.3.0 =
 * Changed to class* Added configuration dialog for number of entries and title
 = 0.2.0 =
