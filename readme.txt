@@ -13,5 +13,5 @@ Additional features include: * Select the number of entries in the list
 = Where are your Frequently Asked Questions? Why aren't they here? =
 Because no questions were asked.
 
-== Upgrade Notice ==* 0.3.1 Changed Plugin Link
+== Upgrade Notice ==* 0.3.2 Tested with Wordpress 4.0* 0.3.1 Changed Plugin Link
 * 0.3.0 First official release.
